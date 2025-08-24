@@ -2,16 +2,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Plínio Ângelo Ferreira
+Matricula: 905539
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de inspeção com navegador](images/print%20inspecao.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela de projeto no Replit](images/print%20replit.png)
 
 
 ## Orientações sobre Linguagem MarkDown
